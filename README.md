@@ -1,4 +1,4 @@
-# AlfredWorkflowTwitterLevantines
+# Alfred Workflow for Twitter Levantines
 This Alfred workflow allows you to select a Twitter username in the browser and perform an advanced search on Twitter for that username.
 
 1. Select the text of the username you wish to search for in your browser.
