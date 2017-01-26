@@ -1,5 +1,5 @@
 # Alfred Workflow for Twitter Levantines
-This Alfred workflow allows you to select a Twitter username in the browser and perform an advanced search on Twitter for that username.
+This Alfred ([https://www.alfredapp.com](https://www.alfredapp.com)) workflow allows you to select a Twitter username in the browser and perform an advanced search on Twitter for that username.
 
 1. Select the text of the username you wish to search for in your browser.
 2. Launch the workflow by using the hotkey combination for the workflow. Default hotkey combination on the Mac is Control + Shift + T.
